@@ -1,5 +1,5 @@
 package testmodule
 
 func Hello() string {
-	return "V8.0.0 hello"
+	return "V8.0.1 hello"
 }
